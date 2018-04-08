@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Jammy\\Test\\": "src/Jammy/Test"
+            "Jammy\\": "src/Jammy"
         }
     }
 }
